@@ -1,180 +1,158 @@
+<!-- Animated Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=ABHIRAM%20SHIVAKOTI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋,%20I'm%20Abhiram%20Shivakoti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;Future+Filmmaker;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;AI+%7C+Machine+Learning+Enthusiast;Embedded+Systems+Developer;Future+Filmmaker+%F0%9F%8E%AC;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# 🚀 About Me
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 B.Tech Electronics & Communication Engineering Student
 
-👤 USER        :: Abhiram Shivakoti
+💻 Passionate about Artificial Intelligence, Machine Learning & Embedded Systems
 
-🎓 DEGREE      :: B.Tech Electronics & Communication
+🤖 Exploring Computer Vision, Deep Learning and IoT
 
-🧠 FOCUS       :: Artificial Intelligence
+🌐 Learning Full Stack Development
 
-🤖 DOMAIN      :: Machine Learning • Deep Learning
+🎬 Aspiring Filmmaker & Content Creator
 
-📡 INTERESTS   :: Embedded Systems • IoT
-
-🌐 LEARNING    :: Full Stack Development
-
-🎬 DREAM       :: Filmmaker
-
-🚀 STATUS      :: Building The Future
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+🏆 College Coding Competition Runner-up
 
 ---
 
-# 🛰 Tech Arsenal
+# ⚡ Tech Stack
 
-<p align="center">
+### Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb"/>
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb"/>
+</p>
 
+### AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
 
-</p>
-
----
-
-# 🚀 Mission Control
-
-| Mission | Status |
-|---------|--------|
-| AI Projects | 🟢 Active |
-| Machine Learning | 🟢 Active |
-| Deep Learning | 🟡 Learning |
-| Embedded Systems | 🟢 Active |
-| Computer Vision | 🟡 Learning |
-| Full Stack | 🟡 Learning |
-| Filmmaking | 🔥 Dream Project |
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Stock Prediction System
+## 🌍 Sensor-Based Environmental Monitoring System
 
-LSTM • Deep Learning • Financial Forecasting • IoT Dashboard
-
----
-
-### 🧠 AI PCB Auto Routing Assistant
-
-Artificial Intelligence for Smart PCB Design
+- Arduino
+- Sensors
+- Embedded Systems
+- Real-Time Monitoring
 
 ---
 
-### 📡 Industrial Walkie Talkie
+## 📡 Industrial Walkie-Talkie Communication System
 
-RF Communication Without Mobile Networks
-
----
-
-### 🌡 Environmental Monitoring System
-
-Arduino • Sensors • Embedded Systems
+- RF Communication
+- Wireless Technology
+- Doordarshan Project
 
 ---
 
-### 🚀 Star Voyagers
+## 🚀 Star Voyagers
 
-HTML • CSS • JavaScript Canvas Game
+HTML • CSS • JavaScript
+
+A browser-based space shooter game featuring
+
+✨ Enemy Generation
+
+🎯 Score Tracking
+
+🚀 Player Controls
+
+💥 Game Over Detection
 
 ---
 
-# ⚡ Learning Progress
+## 🤖 Upcoming Projects
+
+🧠 AI PCB Auto Routing Assistant
+
+📈 AI Stock Prediction using LSTM
+
+🧩 Rubik's Cube Solving Robot
+
+🎥 AI-powered Video Editing Assistant
+
+---
+
+# 🌱 Currently Learning
 
 ```text
-Artificial Intelligence      ████████████ 100%
+Machine Learning ███████░░░ 70%
 
-Machine Learning             █████████░░ 80%
+Deep Learning ██████░░░░ 60%
 
-Deep Learning                ███████░░░░ 65%
+Computer Vision █████░░░░░ 50%
 
-Embedded Systems             █████████░░ 85%
+Embedded AI ██████░░░░ 60%
 
-Computer Vision              ██████░░░░░ 55%
-
-Full Stack                   █████░░░░░░ 45%
-
-Filmmaking                   ████████░░░ 75%
+Full Stack █████░░░░░ 50%
 ```
 
 ---
 
-# 🌌 Visitor Counter
+# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions later to make this work.
+<p align="center">
 
-```text
-https://github.com/YOUR_USERNAME/YOUR_USERNAME
-```
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect with Me
 
-<p align="center">
+<p>
 
 <a href="https://linkedin.com/in/abhiram">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -190,8 +168,8 @@ https://github.com/YOUR_USERNAME/YOUR_USERNAME
 
 <div align="center">
 
-## ⚡ "Dream • Build • Innovate • Inspire"
+### ⭐ "Dream. Build. Learn. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
